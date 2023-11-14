@@ -14,7 +14,7 @@ The keyboard is built using Arduino Pro Micro Atmega32u4 and QMK Firmware, and f
 <li>58x: Cherry compatible keycaps.</li>
 <li>4x: 1.25u keycaps.</li>
 <li>1x: 2u keycaps.</li>
-<li>2x: Arduino pro micro.</li>
+<li>1x: Arduino Pro Micro Atmega32u4.</li>
 <li>1-2 meters of Cable (I recommend thin cable for easy cable management).</li>
 </ul>
 
