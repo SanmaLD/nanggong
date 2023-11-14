@@ -15,6 +15,7 @@ The keyboard is built using Arduino Pro Micro Atmega32u4 and QMK Firmware, and f
 <li>4x: 1.25u keycaps.</li>
 <li>1x: 2u keycaps.</li>
 <li>1x: Arduino Pro Micro Atmega32u4.</li>
+<li>8x: LED WS2812/WS2812B.</li>
 <li>2-3 meters of Cable (I recommend thin cable for easy cable management, im using AWG22 Cable).</li>
 </ul>
 
