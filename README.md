@@ -1,4 +1,6 @@
 # Nanggong
+![nanggong1](https://github.com/SanmaLD/nanggong/assets/64263022/63e2bec8-3f93-4793-9692-afcebdd20ee5)
+
 ![nanggong1](https://github.com/SanmaLD/nanggong/assets/64263022/9edbd3ac-5dd5-47c5-85f2-c5192f3aced0)
 ![nanggong2](https://github.com/SanmaLD/nanggong/assets/64263022/4f8db130-d457-4eec-899d-e145f3addb18)
 
