@@ -24,14 +24,14 @@ For the case file you can make your own at (http://builder.swillkb.com/) to suit
 # Steps
 Steps.
 1. install the switch to the plate
-2. connect the cable according to the schematic image below (there are 2 cables, for colom cable and row cable)
+2. connect the cable according to the schematic image below (there are 2 cables, for colom cable and row cable).<br>
    ![skema](https://github.com/SanmaLD/nanggong/assets/64263022/b26b0f05-9515-426d-99f8-65e167c2a5df)
-3. then connect the row cable to the pro micro pin (as shown below)
+3. then connect the row cable to the pro micro pin (as shown below)<br>
    ![skema1](https://github.com/SanmaLD/nanggong/assets/64263022/97492c07-4be4-468c-8fee-12c93c101b1e)
-5. and then connect the col cable to the pro micro pin (as shown below)
+5. and then connect the col cable to the pro micro pin (as shown below)<br>
    ![skema2](https://github.com/SanmaLD/nanggong/assets/64263022/a75fa834-a1bc-4708-b67a-6d5ed6196734)
 6. after that prepare the software to flash the arduino pro micro, namely using the QML Toolbox software (you can download it <a href="https://github.com/qmk/qmk_toolbox/releases">here</a>
-6. then after installing the qmk toolbox application, select the Nanggong Hex file that can be obtained at <a href="https://github.com/SanmaLD/nanggong/blob/9bf8f2b50f54f4ac732776bcba25513b4e876cad/nanggong_via.hex">here</a>, make sure the MCU has been selected ATmega32u4, and check the auto-flash checklist.
+7. then after installing the qmk toolbox application, select the Nanggong Hex file that can be obtained at <a href="https://github.com/SanmaLD/nanggong/blob/9bf8f2b50f54f4ac732776bcba25513b4e876cad/nanggong_via.hex">here</a>, make sure the MCU has been selected ATmega32u4, and check the auto-flash checklist.<br>
    ![flash](https://github.com/SanmaLD/nanggong/assets/64263022/898cb77b-54a9-43a0-ac19-753c601b15e9)
-8. after that jumper the reset pin on the arduino until the indicator light changes on arduino and remove the jumper, then wait until the qmk toolbox display displays a successful message eating your handwiring keyboard can be used.
+8. after that jumper the reset pin on the arduino until the indicator light changes on arduino and remove the jumper, then wait until the qmk toolbox display displays a successful message eating your handwiring keyboard can be used.<br>
    ![jumper](https://github.com/SanmaLD/nanggong/assets/64263022/8dce04d2-1f30-44f9-bad0-5aceb3b6438a)
