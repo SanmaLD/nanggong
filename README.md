@@ -28,7 +28,7 @@ For the case file you can make your own at (http://builder.swillkb.com/) to suit
 
 # Pin assignment
 ```sh
-            1     2     3     4     5     6     7     8     9     10    11    12    13
+            0     1     2     3     4     5     6     7     8     9     10    11    12
    cols : ["B3", "B2", "B6", "B5", "D7", "E6", "B4", "C6", "D4", "D0", "D1", "D2", "D3"],
    rows : ["D5", "F5", "F6", "F7", "B1"]
 ```
