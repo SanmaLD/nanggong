@@ -26,6 +26,16 @@ A QMK Vial fork can be found <a href="https://www.caniusevia.com/">here</a>.
 
 For the case file you can make your own at (http://builder.swillkb.com/) to suit your preferences, then order at the acrylic laser cutting service in your place.
 
+# Pin assignment
+```sh
+            1     2     3     4     5     6     7     8     9     10    11    12    13
+   cols : ["B3", "B2", "B6", "B5", "D7", "E6", "B4", "C6", "D4", "D0", "D1", "D2", "D3"],
+   rows : ["D5", "F5", "F6", "F7", "B1"]
+```
+
+# Layout
+![image](https://github.com/SanmaLD/nanggong/assets/64263022/84df6885-03b5-424b-889c-caaebcaffbd7)
+
 # Steps
 Steps.
 1. install the switch to the plate
